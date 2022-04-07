@@ -1,4 +1,4 @@
-# IFB104_21s1_InteractiveApplication
+# QUT IFB104 2021 Semester 1 Python Interactive GUI Application
 Online news scrapper interactive application built using Python on the Tkinter GUI framework.
 Scraping news from Australian news sites in the medical industry.
 
